@@ -180,6 +180,7 @@ AFRAME.registerComponent("markerhandler", {
       tr.appendChild(price);
       tr.appendChild(quantity);
       tr.appendChild(subtotal);
+      
       tableBodyTag.appendChild(tr);
     });
 
